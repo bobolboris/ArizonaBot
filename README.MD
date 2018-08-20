@@ -1,3 +1,3 @@
-Бот проекта Arizona RP
-https://arizona-rp.com
-Реализован на Laravel 5.6
+Бот проекта Arizona RP<br>
+https://arizona-rp.com<br>
+Реализован на Laravel 5.6<br>
