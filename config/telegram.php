@@ -34,7 +34,7 @@ return [
     'bots'                         => [
         'arizonabot' => [
             'username'            => 'BotArizona',
-            'token'               => env('TELEGRAM_BOT_TOKEN', '429443441:AAE1lSY1kTtu1UdJOoNyGHg0Bew8xkUrlVg'),
+            'token'               => env('TELEGRAM_BOT_TOKEN', 'TOKEN'),
             'certificate_path'    => env('TELEGRAM_CERTIFICATE_PATH', 'YOUR-CERTIFICATE-PATH'),
             'webhook_url'         => env('TELEGRAM_WEBHOOK_URL', 'YOUR-BOT-WEBHOOK-URL'),
             'commands'            => [
